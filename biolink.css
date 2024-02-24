@@ -125,10 +125,9 @@ template {
 [hidden] {
   display: none;
 }
-.social .facebook a:before {
+ul.social a:before {
   color: #fff; /* Ganti dengan warna yang diinginkan */
 }
-
 .social a:before {
   font-size: 24px;
   display: inline-block;
