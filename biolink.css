@@ -17,6 +17,9 @@ h1 {
 font-size: 2em;
 margin: .67em 0;
 }
+h3 {
+color: white;
+}
 hr {
 box-sizing: content-box;
 height: 0;
